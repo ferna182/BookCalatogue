@@ -1,0 +1,12 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+xcuserdata/
+
+# Ignore macOS Finder user-related files
+.DS_Store
+
+# Ignore AppCode user-related files
+.idea/
